@@ -25,5 +25,4 @@ Clone the repository
 Install required libraries: pip install numpy pandas matplotlib
 Run the main file: python main.py
 🔗 GitHub Repository
-
-https://github.com/Sathvika14-chava/gps-lidar-attack-detection
+https://github.com/Sathvika14-chava/detection-and-isolation-of-sensor-attack/tree/main
